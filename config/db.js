@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 // URL kết nối MongoDB Atlas (điền username, password, và tên database của bạn)
 //const mongoURI = 'mongodb+srv://<username>:<password>@cluster0.mongodb.net/mydatabase?retryWrites=true&w=majority';
 // URL kết nối MongoDB
-const mongoURI = "mongodb://127.0.0.1:27017/Labs3New";
+const mongoURI = "mongodb://127.0.0.1:27017/Labs5New";
 //kết nối
 const connect = async () => {
   try {
